@@ -1,0 +1,101 @@
+EmployeeID,Gender,Age,Department,JobRole,Salary,Attrition,Education,ExperienceYears
+1001,Male,23,Operations,Operations Executive,57098,No,Bachelor's,0
+1002,Male,49,Operations,Operations Executive,28905,No,Bachelor's,28
+1003,Female,34,Marketing,Marketing Executive,53893,No,Diploma,7
+1004,Male,49,Sales,Sales Executive,61421,No,Bachelor's,23
+1005,Female,27,HR,HR Executive,37676,No,Master's,0
+1006,Female,29,Sales,Sales Manager,35328,No,Diploma,2
+1007,Male,26,HR,HR Executive,111673,No,Master's,5
+1008,Female,46,IT,Developer,84429,No,Bachelor's,21
+1009,Male,39,IT,Engineer,104840,No,Diploma,17
+1010,Male,46,IT,Analyst,108886,No,Diploma,21
+1011,Female,24,Sales,Sales Executive,77581,No,Bachelor's,0
+1012,Female,35,Marketing,SEO Specialist,76856,No,Bachelor's,7
+1013,Female,38,IT,Engineer,101484,No,Master's,11
+1014,Male,53,IT,Engineer,31175,No,Bachelor's,31
+1015,Female,26,Operations,Supervisor,75019,No,Diploma,0
+1016,Female,29,Marketing,Marketing Executive,109012,No,Bachelor's,4
+1017,Male,22,IT,Analyst,90612,No,Diploma,0
+1018,Female,54,Operations,Supervisor,45032,No,Bachelor's,30
+1019,Male,42,Marketing,Marketing Executive,27552,No,Master's,14
+1020,Male,25,HR,HR Executive,99364,No,Bachelor's,1
+1021,Male,30,Sales,Sales Executive,97063,No,Master's,2
+1022,Female,35,Marketing,SEO Specialist,118447,No,Master's,11
+1023,Male,50,Operations,Supervisor,40860,Yes,Bachelor's,22
+1024,Male,36,Sales,Sales Executive,34305,Yes,Bachelor's,15
+1025,Female,26,Sales,Sales Manager,61500,No,Bachelor's,2
+1026,Male,37,Operations,Supervisor,78354,Yes,Bachelor's,9
+1027,Male,49,Finance,Financial Analyst,86213,No,Diploma,22
+1028,Male,25,Operations,Operations Executive,69473,Yes,Bachelor's,0
+1029,Female,30,Marketing,SEO Specialist,49050,No,Master's,3
+1030,Male,28,Sales,Sales Manager,110477,No,Bachelor's,7
+1031,Male,48,IT,Developer,88092,No,Master's,20
+1032,Female,22,IT,Analyst,59760,No,Master's,0
+1033,Male,31,Operations,Supervisor,63890,No,Bachelor's,7
+1034,Female,42,Marketing,Marketing Executive,31572,No,Diploma,21
+1035,Male,25,Marketing,Marketing Executive,49356,Yes,Diploma,3
+1036,Male,29,IT,Analyst,100880,Yes,Diploma,5
+1037,Female,38,Operations,Supervisor,112782,No,Bachelor's,14
+1038,Male,41,IT,Engineer,66441,No,Bachelor's,13
+1039,Female,26,Marketing,Marketing Executive,91307,No,Bachelor's,2
+1040,Female,45,Sales,Sales Executive,45676,No,Diploma,20
+1041,Female,41,Marketing,Marketing Executive,42601,No,Bachelor's,19
+1042,Male,39,Operations,Operations Executive,104276,No,Diploma,14
+1043,Male,54,Operations,Supervisor,57914,No,Bachelor's,26
+1044,Female,22,HR,HR Executive,42146,No,Bachelor's,0
+1045,Male,22,Marketing,SEO Specialist,34862,Yes,Diploma,0
+1046,Female,49,HR,HR Executive,30482,No,Master's,26
+1047,Male,35,Sales,Sales Manager,112416,No,Master's,11
+1048,Female,37,Finance,Accountant,48206,Yes,Bachelor's,14
+1049,Male,37,HR,Recruiter,45866,No,Master's,12
+1050,Female,34,Finance,Accountant,70830,No,Bachelor's,6
+1051,Male,47,Operations,Operations Executive,61517,No,Master's,21
+1052,Female,43,Marketing,SEO Specialist,40118,No,Bachelor's,22
+1053,Female,28,HR,HR Executive,70309,No,Master's,1
+1054,Male,46,Marketing,Marketing Executive,58386,No,Diploma,22
+1055,Female,45,Marketing,Marketing Executive,34171,No,Diploma,18
+1056,Female,54,Sales,Sales Manager,112410,No,Master's,29
+1057,Female,34,HR,HR Executive,112153,No,Diploma,7
+1058,Male,41,IT,Engineer,96819,No,Master's,14
+1059,Male,51,Finance,Financial Analyst,82954,No,Diploma,23
+1060,Female,27,Operations,Operations Executive,92561,No,Bachelor's,2
+1061,Male,41,IT,Engineer,51100,Yes,Bachelor's,17
+1062,Male,51,Finance,Accountant,107544,No,Diploma,24
+1063,Male,37,Finance,Financial Analyst,110990,No,Bachelor's,14
+1064,Male,55,IT,Developer,31582,No,Bachelor's,27
+1065,Female,50,Finance,Financial Analyst,96810,No,Bachelor's,23
+1066,Female,38,Finance,Financial Analyst,108579,No,Diploma,14
+1067,Female,50,IT,Analyst,118525,No,Bachelor's,28
+1068,Female,30,HR,HR Executive,55311,Yes,Diploma,7
+1069,Female,48,IT,Developer,68369,Yes,Master's,21
+1070,Male,23,Finance,Financial Analyst,87518,No,Master's,0
+1071,Female,36,Finance,Financial Analyst,53760,No,Master's,8
+1072,Male,47,Finance,Financial Analyst,86261,No,Diploma,24
+1073,Female,27,Finance,Accountant,42786,Yes,Bachelor's,0
+1074,Female,35,Finance,Financial Analyst,67840,No,Master's,7
+1075,Male,27,Finance,Financial Analyst,27540,No,Master's,0
+1076,Male,23,Sales,Sales Executive,51130,Yes,Diploma,0
+1077,Female,29,IT,Analyst,85952,Yes,Master's,5
+1078,Male,32,Marketing,Marketing Executive,39168,No,Master's,7
+1079,Male,34,Finance,Financial Analyst,102607,No,Bachelor's,12
+1080,Female,24,HR,HR Executive,94827,No,Diploma,0
+1081,Male,22,Marketing,SEO Specialist,89251,No,Master's,0
+1082,Female,31,Operations,Supervisor,48086,No,Diploma,4
+1083,Female,51,Marketing,SEO Specialist,102656,No,Master's,24
+1084,Female,50,Sales,Sales Manager,85910,Yes,Master's,26
+1085,Female,53,HR,HR Executive,71507,No,Master's,29
+1086,Male,22,Marketing,SEO Specialist,36221,No,Diploma,0
+1087,Male,52,Marketing,Marketing Executive,83743,No,Bachelor's,24
+1088,Female,41,Finance,Accountant,87031,No,Master's,15
+1089,Female,44,Marketing,SEO Specialist,60509,No,Master's,16
+1090,Male,42,Operations,Operations Executive,95236,No,Bachelor's,20
+1091,Male,55,Finance,Financial Analyst,38176,No,Master's,30
+1092,Male,22,IT,Analyst,60954,No,Bachelor's,0
+1093,Female,53,Operations,Operations Executive,26607,No,Master's,31
+1094,Male,25,HR,HR Executive,87616,No,Bachelor's,0
+1095,Female,31,Sales,Sales Executive,98772,No,Bachelor's,8
+1096,Female,36,Sales,Sales Manager,84049,No,Master's,9
+1097,Male,25,Finance,Financial Analyst,52235,No,Master's,3
+1098,Male,33,IT,Developer,45517,No,Master's,11
+1099,Female,40,Marketing,SEO Specialist,55340,No,Diploma,19
+1100,Male,36,Finance,Accountant,106927,Yes,Master's,11
